@@ -157,7 +157,7 @@ module fifo(/*AUTOARG*/
          end
          endcase
        
-         nstate = (n_readPtr != n_wrPtr)? 2'b01 : (data_in_valid)?  2'b10:2'b00;
+         nstate = (readPtr != wrPtr)? 2'b01 : (data_in_valid)?  2'b10:2'b00;
          
          
          

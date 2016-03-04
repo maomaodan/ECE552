@@ -1,0 +1,83 @@
+m255
+cModel Technology
+d/afs/cs.wisc.edu/u/w/e/wenxuan/private/552/hw3/hw3_3
+vclkrst
+I8fzdDdHGFgK4C?2g2<MPV3
+VK>2=mbfl0iJWOIS>jZz]C0
+w1456174227
+Fclkrst.v
+L0 12
+OE;L;5.8b;17
+r1
+31
+o+define+RANDSEED=3 -work __work
+vcounter4
+IQGTN]c9=b203<k^Y4N8aJ0
+Vmj=gcYKGFSKH:E_bZ;ICh1
+w1456703561
+Fcounter4.v
+L0 1
+OE;L;5.8b;17
+r1
+31
+o+define+RANDSEED=3 -work __work
+vdff
+IDX1IR`Dk[;SUJ;F<;6i_G1
+V;GC@fJC4l9bF1doI@Q2XK3
+w1456174227
+Fdff.v
+L0 6
+OE;L;5.8b;17
+r1
+31
+o+define+RANDSEED=3 -work __work
+vfifo
+I8GTkIX^eQP3Q:j=<CbOHn2
+Vkez:7FNDZ;`5THH_CLT:O2
+w1456706284
+Ffifo.v
+L0 4
+OE;L;5.8b;17
+r1
+31
+o+define+RANDSEED=3 -work __work
+vfifo_bench
+I13JodVUAgYPc5JJ>PPFdS3
+VUkXRPf4GON5iOXFS9ajNJ0
+w1456174227
+Ffifo_bench.v
+L0 1
+OE;L;5.8b;17
+r1
+31
+o+define+RANDSEED=3 -work __work
+vfifo_hier
+IMBz<E`m9Y3<K`o8Q4_R6G0
+V5Y5Uza`HN;mGENHWM39ZP0
+w1456174227
+Ffifo_hier.v
+L0 7
+OE;L;5.8b;17
+r1
+31
+o+define+RANDSEED=3 -work __work
+vreg16
+I?kNA38lNF]`TZga`Q[]Sj3
+VmGTFjS6cX`b`DOZHYHJ<j3
+w1456174405
+Freg16.v
+L0 1
+OE;L;5.8b;17
+r1
+31
+o+define+RANDSEED=3 -work __work
+vreg64
+I2Ig:^Eek1`hn8:88f_5N?2
+VQ61Y5AcbG<la]6e3BPKiP1
+w1456692338
+Freg64.v
+L0 1
+OE;L;5.8b;17
+r1
+31
+o+define+RANDSEED=3 -work __work
