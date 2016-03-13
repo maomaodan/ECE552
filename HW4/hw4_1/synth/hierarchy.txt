@@ -1,0 +1,27 @@
+ 
+****************************************
+Report : hierarchy
+Design : rf_bypass
+Version: B-2008.09-SP3
+Date   : Thu Mar 10 23:28:25 2016
+****************************************
+
+Information: This design contains unmapped logic. (RPT-7)
+
+rf_bypass
+    GTECH_AND2                               gtech
+    GTECH_BUF                                gtech
+    GTECH_NOT                                gtech
+    rf
+        GTECH_AND2                           gtech
+        GTECH_BUF                            gtech
+        GTECH_NOT                            gtech
+        GTECH_OR2                            gtech
+        GTECH_OR5                            gtech
+        reg16
+            GTECH_BUF                        gtech
+            GTECH_NOT                        gtech
+            dff
+                GTECH_BUF                    gtech
+                GTECH_NOT                    gtech
+1
