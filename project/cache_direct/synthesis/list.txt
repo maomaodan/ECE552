@@ -1,7 +1,0 @@
-cache.v
-memc.syn.v
-reg16.v
-mem_system.v
-dff.v
-four_bank_mem.v
-
